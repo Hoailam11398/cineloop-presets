@@ -1,0 +1,20 @@
+{
+  "stories": [
+    { "id":"story_001","title":"Mưa Nhẹ Đầu Ngõ","arc_type":"OPEN_HOLD_RELEASE","beats":{"OPEN":"rainy alley, first glance","HOLD":"quiet walk, memories","RELEASE":"soft acceptance, open street"} },
+    { "id":"story_002","title":"Gió Trên Cầu","arc_type":"OPEN_HOLD_RELEASE","beats":{"OPEN":"windy bridge, distant lights","HOLD":"close-up emotions, slow steps","RELEASE":"deep breath, calm release"} },
+    { "id":"story_003","title":"Cà Phê Buổi Sáng","arc_type":"OPEN_HOLD_RELEASE","beats":{"OPEN":"morning sunlight, coffee aroma","HOLD":"small gestures, gentle smile","RELEASE":"warm confidence, brighter mood"} },
+    { "id":"story_004","title":"Phố Cổ Lồng Đèn","arc_type":"OPEN_HOLD_RELEASE","beats":{"OPEN":"lantern street glow","HOLD":"slow turns, nostalgic vibe","RELEASE":"romantic calm, lingering light"} },
+    { "id":"story_005","title":"Biển Hoàng Hôn","arc_type":"OPEN_HOLD_RELEASE","beats":{"OPEN":"wide beach, soft horizon","HOLD":"close-up hair in wind","RELEASE":"golden glow, peaceful end"} },
+
+    { "id":"story_006","title":"Chuyến Xe Đêm","arc_type":"OPEN_HOLD_RELEASE","beats":{"OPEN":"bus window neon","HOLD":"reflection on glass","RELEASE":"letting go, quiet smile"} },
+    { "id":"story_007","title":"Hiệu Sách Im Lặng","arc_type":"OPEN_HOLD_RELEASE","beats":{"OPEN":"bookstore calm","HOLD":"pages turning, shy eyes","RELEASE":"soft warmth, gentle close"} },
+    { "id":"story_008","title":"Đồi Thông Mù Sương","arc_type":"OPEN_HOLD_RELEASE","beats":{"OPEN":"misty trees, wide shot","HOLD":"slow walk, breath visible","RELEASE":"sun ray break, relief"} },
+    { "id":"story_009","title":"Chợ Hoa Sáng Rực","arc_type":"OPEN_HOLD_RELEASE","beats":{"OPEN":"colorful flower stalls","HOLD":"smell petals, playful","RELEASE":"bright joy, confident pose"} },
+    { "id":"story_010","title":"Rooftop Bình Minh","arc_type":"OPEN_HOLD_RELEASE","beats":{"OPEN":"sunrise skyline","HOLD":"wind, contemplative close","RELEASE":"hopeful wide, flycam pullback"} }
+
+    /* NOTE: Duplicate the pattern up to story_100.
+       Agent should programmatically expand this list to 100 entries with diverse VN settings:
+       ricefield, waterfall, tram, museum, cafe, rainy night, neon alley, garden, studio, mountain cloud, seaside, old town, rooftop, hotel lobby...
+    */
+  ]
+}

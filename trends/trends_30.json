@@ -1,0 +1,12 @@
+{
+  "updated_at":"2026-02-09",
+  "platform":"tiktok",
+  "trends":[
+    { "id":"soft_girlfriend","weight":0.75,"tags":["soft","girlfriend","natural"] },
+    { "id":"flycam_pullback","weight":0.55,"tags":["aerial","cinematic"] },
+    { "id":"neon_rain_reflection","weight":0.60,"tags":["neon","rain","reflection"] },
+    { "id":"outfit_transition","weight":0.70,"tags":["fashion","transition"] },
+    { "id":"close_whisper","weight":0.50,"tags":["closeup","intimate"] }
+    /* NOTE: Agent should expand to 30 trends with weights and tags. */
+  ]
+}
