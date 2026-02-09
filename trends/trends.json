@@ -1,0 +1,8 @@
+{
+  "updated_at": "2026-02-09",
+  "platform": "tiktok",
+  "trends": [
+    { "id": "soft_girlfriend", "weight": 0.75, "tags": ["soft","girlfriend","natural"] },
+    { "id": "flycam_pullback", "weight": 0.55, "tags": ["aerial","cinematic"] }
+  ]
+}

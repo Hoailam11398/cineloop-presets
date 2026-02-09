@@ -1,1 +1,11 @@
-{ "version":"1.0.0","updated_at":"2026-02-09","presets":0,"stories":0,"trends":0 }
+{
+  "version": "1.0.1",
+  "updated_at": "2026-02-09T00:00:00Z",
+  "files": {
+    "templates": "presets/templates.json",
+    "continuity_profiles": "presets/continuity_profiles.json",
+    "shot_profiles": "presets/shot_profiles.json",
+    "trends": "trends/trends.json"
+  },
+  "notes": "Starter pack for CineLoop auto-update"
+}

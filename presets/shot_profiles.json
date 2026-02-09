@@ -1,0 +1,26 @@
+{
+  "cinematic_soft": [
+    { "shot": 1, "camera": "flycam top-down", "lens": "ultra-wide", "motion": "slow descend", "emotion": "calm" },
+    { "shot": 2, "camera": "wide", "lens": "24mm", "motion": "static", "emotion": "calm" },
+    { "shot": 3, "camera": "tracking", "lens": "35mm", "motion": "forward", "emotion": "curious" },
+    { "shot": 4, "camera": "dolly", "lens": "50mm", "motion": "side move", "emotion": "warm" },
+    { "shot": 5, "camera": "handheld", "lens": "50mm", "motion": "light shake", "emotion": "human" },
+    { "shot": 6, "camera": "close", "lens": "85mm", "motion": "static", "emotion": "intimate" },
+    { "shot": 7, "camera": "close", "lens": "85mm", "motion": "push-in", "emotion": "emotional" },
+    { "shot": 8, "camera": "medium", "lens": "50mm", "motion": "static", "emotion": "stable" },
+    { "shot": 9, "camera": "medium", "lens": "50mm", "motion": "slow pan", "emotion": "reflective" },
+    { "shot": 10, "camera": "detail", "lens": "85mm", "motion": "static", "emotion": "inner" },
+    { "shot": 11, "camera": "medium", "lens": "35mm", "motion": "forward", "emotion": "rising" },
+    { "shot": 12, "camera": "wide", "lens": "24mm", "motion": "crane", "emotion": "power" },
+    { "shot": 13, "camera": "wide", "lens": "24mm", "motion": "fast push", "emotion": "peak" },
+    { "shot": 14, "camera": "medium", "lens": "50mm", "motion": "pull-back", "emotion": "release" },
+    { "shot": 15, "camera": "wide", "lens": "35mm", "motion": "static", "emotion": "peace" }
+  ],
+  "tiktok_fast": [
+    { "shot": 1, "camera": "close", "lens": "35mm", "motion": "snap", "emotion": "playful" },
+    { "shot": 2, "camera": "medium", "lens": "35mm", "motion": "quick pan", "emotion": "cute" },
+    { "shot": 3, "camera": "close", "lens": "50mm", "motion": "push-in", "emotion": "flirty" },
+    { "shot": 4, "camera": "medium", "lens": "35mm", "motion": "handheld", "emotion": "casual" },
+    { "shot": 5, "camera": "close", "lens": "50mm", "motion": "static", "emotion": "warm" }
+  ]
+}

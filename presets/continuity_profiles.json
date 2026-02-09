@@ -1,0 +1,12 @@
+{
+  "soft_natural": {
+    "OPEN": "light dress, pastel, minimal makeup, loose natural hair",
+    "HOLD": "simple elegant dress, neutral tones, soft makeup, half-up hair",
+    "RELEASE": "flowy dress, warm light, emotional makeup, styled loose hair"
+  },
+  "casual_daily": {
+    "OPEN": "casual outfit, natural look",
+    "HOLD": "simple daily wear, friendly expression",
+    "RELEASE": "comfortable outfit, relaxed mood"
+  }
+}

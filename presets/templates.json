@@ -1,0 +1,26 @@
+{
+  "templates": [
+    {
+      "id": "nang_tho_cinematic",
+      "label": "Nàng Thơ Cinematic",
+      "story_seed": "A poetic journey of a young Vietnamese woman wandering through nature, calm and introspective.",
+      "continuity_profile": "soft_natural",
+      "shot_profile": "cinematic_soft",
+      "camera_bias": ["flycam","wide","close"],
+      "color_mood": "pastel, soft light, film grain",
+      "frame_default": "16:9",
+      "frame_override": true
+    },
+    {
+      "id": "tiktok_daily",
+      "label": "TikTok Girl Daily",
+      "story_seed": "A simple daily-life story designed for short-form engagement.",
+      "continuity_profile": "casual_daily",
+      "shot_profile": "tiktok_fast",
+      "camera_bias": ["close","handheld"],
+      "color_mood": "bright, clean",
+      "frame_default": "9:16",
+      "frame_override": true
+    }
+  ]
+}
